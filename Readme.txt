@@ -74,4 +74,3 @@ LED turned OFF
 LED turned on
 
 OUTPUT :
-file:///home/surendar/git/Embedded-shell-stm32f4/output.png
