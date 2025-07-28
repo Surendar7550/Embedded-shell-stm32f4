@@ -46,6 +46,7 @@ Option 2: Using st-flash  (Recommended) :
     Core  Drivers  Embedded_Shell.bin  Embedded_Shell.elf  Embedded_Shell.list  Embedded_Shell.map  Library  makefile  objects.list  objects.mk  sources.mk
  3.flash the file
     st-flash write Embedded_Shell.bin 0x8000000
+  <img width="1548" height="425" alt="Flash" src="https://github.com/user-attachments/assets/bdca9ffb-a4df-4d1b-a11f-3e935cf2c699" />
 
 UART CONNECTION :
 
@@ -74,4 +75,5 @@ LED turned OFF
 LED turned on
 
 OUTPUT :
-  file:///home/surendar/git/Embedded-shell-stm32f4/output.png
+<img width="801" height="561" alt="output" src="https://github.com/user-attachments/assets/4880c6a5-5b8e-46fb-adf0-f7caede3a33f" />
+
