@@ -72,3 +72,5 @@ LED turned OFF
 
 >STATUS
 LED turned on
+
+OUTPUT :
