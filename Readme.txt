@@ -46,7 +46,6 @@ Option 2: Using st-flash  (Recommended) :
     Core  Drivers  Embedded_Shell.bin  Embedded_Shell.elf  Embedded_Shell.list  Embedded_Shell.map  Library  makefile  objects.list  objects.mk  sources.mk
  3.flash the file
     st-flash write Embedded_Shell.bin 0x8000000
-<img width="1548" height="425" alt="Flash" src="https://github.com/user-attachments/assets/998e1ba1-f48d-41ba-a938-df849e71bb27" />
 
 UART CONNECTION :
 
@@ -73,7 +72,3 @@ LED turned OFF
 
 >STATUS
 LED turned on
-
-OUTPUT :
-<img width="801" height="561" alt="output" src="https://github.com/user-attachments/assets/10f55c29-15a2-47c7-ae13-d757c156d14e" />
-
